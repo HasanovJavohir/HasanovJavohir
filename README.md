@@ -1,4 +1,1 @@
-Hi, I am a future Software engineer who is interested in back-end development.
-I primarily work with Python and Django and I like constructing clean and scalable systems.
-I possess strong problem solving capabilities and enjoy solving algorithmic problems to enhance my thinking and quality of the code.
-I am now studying, constructing buildings and expanding daily.
+Hi, I'm an aspiring software engineer focused on back-end development. I work primarily with Python and Django, and I enjoy designing clean, scalable systems. I have strong problem-solving skills and regularly practice algorithmic challenges to sharpen my thinking and write better code. I'm currently learning, building projects, and growing every day.
